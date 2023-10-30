@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-#include <stddef.h>
 
 /**
  ** main - check the code
@@ -23,4 +22,3 @@ int main(void)
 	printf("%u\n", n);
 	return (0);
 }
-

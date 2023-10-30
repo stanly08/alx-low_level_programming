@@ -9,7 +9,6 @@
 int main(void)
 {
 	unsigned long int n;
-	int set_bit;
 
 	n = 1024;
 	set_bit(&n, 5);
