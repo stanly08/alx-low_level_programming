@@ -1,0 +1,2 @@
+CC = gccSRC = main.c school.call: $(SRC)	$(CC) $(SRC) -o school
+
